@@ -8,7 +8,7 @@ This is a template for conducting Exploratory Data Analysis (EDA) using Python. 
 Before you start, ensure that you have the following:
 
 - Python installed in your device.
-- Jupyter Notebook or any preferred code editor. (I have used VS Code)
+- Jupyter Notebook or any preferred code editor. (I have used VS Code for this)
 - Install all the Libraries used in the project using pip/ pip3 install command
 
 ## Getting Started
