@@ -15,3 +15,4 @@ Before you start, ensure that you have the following:
 Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Chirag529/EDA_Template.git
+  ```
